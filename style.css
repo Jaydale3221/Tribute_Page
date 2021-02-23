@@ -1,0 +1,140 @@
+body {
+  background-color: #f4f9f9;
+}
+
+.Top {
+  padding-top: 1px;
+  position: relative;
+  margin-bottom: 400px;
+}
+
+.you{
+  text-decoration: underline;
+   font-family: 'Akaya Kanadaka', cursive;
+   color:  #112d4e;
+}
+
+.text{
+  line-height: 3;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 50px;
+  text-align: center;
+  font-size: 100px;
+  margin-bottom: 5px;
+  color:#112d4e;
+}
+
+h2 {
+  text-align: center;
+
+  font-size: 50px;
+  padding-bottom: 100px;
+color: #383e56;
+}
+
+.one {
+  margin-bottom: 450px;
+}
+.WC{
+  margin-bottom: 450px;
+}
+
+.CW{
+  margin-bottom: 450px;
+}
+
+.Last{
+  margin-bottom: 450px;
+
+}
+
+
+
+p {
+  font-family: 'Roboto Slab', serif;
+  line-height: 3;
+}
+
+h3 {
+  text-align: center;
+  margin-bottom: 100px;
+  font-size: 30px;
+  color:#112d4e;
+  font-family: 'Akaya Telivigala', cursive;
+}
+
+.Main-img {
+  width: 700px;
+  height: 650px;
+  float: left;
+  padding-right: 20px;
+  margin-top: 0;
+  border-radius: 50%
+}
+
+.dec {
+  text-decoration: underline;
+}
+
+.ach-img1 {
+  width: 400px;
+  height: 500px;
+  float: left;
+  padding-right: 50px;
+}
+
+.ach-img2 {
+  width: 400px;
+  height: 500px;
+  float: right;
+  padding-left: 50px;
+}
+
+
+.ach-img3 {
+  width: 400px;
+  height: 500px;
+  float: left;
+  padding-right:  50px;
+}
+
+.ach-img4 {
+  width: 500px;
+  height: 500px;
+  float: right;
+  padding-left:  50px;
+}
+
+
+
+.Second {}
+
+hr {
+  width: 5%;
+  border-top: 10px dotted;
+  color: grey;
+}
+
+a{
+ color:#112d4e;
+ margin: 10px 20px;
+ font-family: 'Roboto Slab', serif;
+ }
+
+ a:hover {
+  background-color: yellow;
+}
+
+
+.footer{
+  text-align: center;
+  font-size: 25px;
+
+  background-color: #11284e47 ;
+ padding-top: 50px;
+ padding-bottom: 50px;
+
+ }
